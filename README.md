@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my username is Cursedcolor, but if you want to know my real first name is Jairo. Current 11/2/2024 I am a systems engineering student, and as a beginner programmer as a hobby, I use a series of basic programming languages such as those shown in my github. I will be happy to work on your project to gain more and more experience
+Hello, my username is Cursedcolor, but if you want to know my real first name is Jairo. Current 11/2/2024 I am a systems engineering student, and as a beginner programmer as a hobby, I use a series of basic programming languages such as those shown in my github. I will be happy to work on your project to gain more and more experience.
 
 
 ## 🌐 Socials:
