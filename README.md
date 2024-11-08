@@ -1,5 +1,5 @@
 # 💫 Acerca de Mí:
-Hola, mi nombre de usuario es Cursedcolor, pero si quieres saber mi nombre real es Jairo. Actualidad 2/11/2024 Soy estudiante de ingeniería de sistemas, y como programador principiante como hobby, utilizo una serie de lenguajes de programación básicos como los que se muestran en mi github. Estaré encantado de trabajar en cualquier proyecto para ganar cada vez más experiencia en la programación. :point_right: :keyboard:
+Hola, mi nombre de usuario es Cursedcolor, pero si quieres saber mi nombre real es Jairo. Actualidad 2/11/2024 Soy estudiante de ingeniería de sistemas, y como programador principiante como hobby, utilizo una serie de lenguajes de programación básicos como los que se muestran en mi github. Estaré encantado de trabajar en cualquier proyecto para ganar cada vez más experiencia en la programación. :point_right: :keyboard: :point_left:
 
 
 ## 🌐 Redes Sociales:
