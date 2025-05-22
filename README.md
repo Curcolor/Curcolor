@@ -35,7 +35,7 @@ Hola, mi nombre de usuario es Cursedcolor, pero si quieres saber mi nombre real 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 #### Redes profesionales
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/jairo-andrés-arcia-osorio-a66525201)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jairo-andrés-arcia-osorio-a66525201)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
