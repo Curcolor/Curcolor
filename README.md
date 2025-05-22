@@ -5,7 +5,7 @@ Hola, mi nombre de usuario es Cursedcolor, pero si quieres saber mi nombre real 
 ## 🌐 Redes Sociales:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Curcolor) 
 
-# 💻 Pila tecnológica:
+## 💻 Pila tecnológica:
 
 #### Lenguajes de programación
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
