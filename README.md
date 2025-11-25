@@ -89,20 +89,26 @@ tiempo para que las personas hagan cosas increíbles."*
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Curcolor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Curcolor&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curcolor&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=9ece6a&fire=f7768e&currStreakLabel=7aa2f7"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Curcolor&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=f7768e"/>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Curcolor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Curcolor&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Curcolor&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;stroke=7aa2f7&amp;ring=9ece6a&amp;fire=f7768e&amp;currStreakLabel=7aa2f7"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Curcolor&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=1a1b27&amp;color=7aa2f7&amp;line=9ece6a&amp;point=f7768e"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
