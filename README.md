@@ -90,8 +90,8 @@ tiempo para que las personas hagan cosas increíbles."*
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Curcolor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curcolor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Curcolor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Curcolor&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27"/>
 </div>
 
 <div align="center">
