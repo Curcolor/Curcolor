@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 on:
   # Ejecutar automáticamente cada 12 horas
   schedule:
