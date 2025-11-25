@@ -1,5 +1,5 @@
 <!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Curcolor&fontSize=60&fontColor=7aa2f7&animation=fadeIn&fontAlignY=30&desc=DevOps%20%26%20Cloud%20Engineer%20Jr&descSize=25&descAlignY=55&descColor=9ece6a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:24283b,100:414868&amp;height=220&amp;section=header&amp;text=Curcolor&amp;fontSize=60&amp;fontColor=7aa2f7&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=DevOps%20%26%20Cloud%20Engineer%20Jr&amp;descSize=25&amp;descAlignY=55&amp;descColor=9ece6a"/>
 
 <!-- Typing SVG -->
 <div align="center">
