@@ -1,5 +1,5 @@
 <!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:24283b,100:414868&amp;height=220&amp;section=header&amp;text=Curcolor&amp;fontSize=60&amp;fontColor=7aa2f7&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=DevOps%20%26%20Cloud%20Engineer%20Jr&amp;descSize=25&amp;descAlignY=55&amp;descColor=9ece6a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:24283b,100:414868&amp;height=220&amp;section=header&amp;text=Curcolor&amp;fontSize=60&amp;fontColor=7aa2f7&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=DevOps%20%26amp%3B%20Cloud%20Engineer%20Jr&amp;descSize=25&amp;descAlignY=55&amp;descColor=9ece6a"/>
 
 <!-- Typing SVG -->
 <div align="center">
@@ -18,12 +18,6 @@
 ---
 
 ## 💫 Acerca de Mí
-
-```yaml
-ubicación: Colombia 🇨🇴
-enfoque: Infraestructura como Código | CI/CD | Cloud Computing
-pasión: Automatizar todo lo que se pueda automatizar ⚡
-```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
