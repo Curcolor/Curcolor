@@ -112,14 +112,6 @@ tiempo para que las personas hagan cosas increíbles."*
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Curcolor&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
----
-
 ## 🐍 Contribuciones
 
 <div align="center">
